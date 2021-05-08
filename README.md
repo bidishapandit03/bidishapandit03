@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bidisha Pandit
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning competetive coding and web development
-- 📫 To reach me- drop an email at bidishapandit03@gmail.com
+- 👋 Hi, I’m Bidisha Pandit.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning competetive coding and web development.
+- 📫 To reach me- drop an email at bidishapandit03@gmail.com.
 
 <!---
 bidishapandit03/bidishapandit03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
